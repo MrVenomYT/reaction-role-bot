@@ -1,0 +1,5 @@
+{
+    "database": "mongodb+srv://joker_hun5:HeroPCA5@cluster0.2vmrj.mongodb.net/Discord?retryWrites=true&w=majority",
+    "token": "ODQ1Njc4MTUxODc4ODM2MjQ1.YKkdJw.jO0iJ9IsvUvGtw9d6wCnC6dD4aY",
+    "prefix": "!"
+}
